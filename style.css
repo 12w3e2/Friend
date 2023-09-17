@@ -1,0 +1,38 @@
+.main {
+    width: 25%;
+    margin-top: 15%;
+    margin-left: 35%;
+    margin-bottom: 10%;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 5px grey;
+   
+    
+}
+.main img {
+    width: 100%;
+    border-radius: inherit;
+    transition-duration: 1s;
+
+}
+img:hover {
+    scale: 1.03;
+}
+.btn-1 {
+    margin-top: 5px;
+    width: 100%;
+    background-color:rgb(47, 120, 255);
+    font-weight: 700;
+    border-radius: inherit;
+}
+.friend {
+    background-color: crimson;
+    font-weight: 700;
+    text-align: center;
+}
+.status {
+    text-align: center;
+}
+.main {
+    padding:0;
+}
